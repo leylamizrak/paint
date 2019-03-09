@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484684467 source:c:\users\pc\documents\ce\projeler›m\paint\main.cpp
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<windows.h>
+
