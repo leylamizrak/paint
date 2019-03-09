@@ -1,5 +1,5 @@
 # paint
-##Programlama Laboratuvarı Projesi
+Programlama Laboratuvarı Projesi
 
 Paint uygulamasının tasarlanması amaçlanmıştır. Proje Graphics.h kütüphanesi kullanılarak C Programlama dilinde geliştirilmiştir.(Lisans-2.Sınıf)
 
